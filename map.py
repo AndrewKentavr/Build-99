@@ -311,3 +311,5 @@ def generate(level):
                             flag = False
                 elif enemy_distance:
                     enemy_distance -= 1
+                    
+     # ПРООООООООООБУЮ ЧТО - ТО ИЗМЕНИТЬ
